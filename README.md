@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 1. Clone the Repository:
 bash
 Copy code
-git clone <repository-url>
+git clone https://github.com/YosefWel/Netflix-clone.git
 cd netflix-clone
 2. Install Dependencies:
 bash
